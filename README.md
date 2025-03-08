@@ -1,7 +1,7 @@
 # Proyecto Nombre
 
 ![Estado del proyecto](https://img.shields.io/badge/status-activo-brightgreen)
-![Última versión](https://img.shields.io/github/v/release/usuario/repositorio)
+![Última versión](https://img.shields.io/github/v/release/AND3SIL4/backend-andhara)
 
 ## 📌 Índice
 
