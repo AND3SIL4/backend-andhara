@@ -4,6 +4,7 @@
 ![Última versión](https://img.shields.io/github/v/release/usuario/repositorio)
 
 ## 📌 Índice
+
 - [Descripción](#-descripción)
 - [Características](#-características)
 - [Instalación](#-instalación)
@@ -17,9 +18,11 @@
 - [Contacto](#-contacto)
 
 ## 📌 Descripción
+
 Breve descripción del proyecto, su propósito y el problema que resuelve.
 
 ## 🚀 Características
+
 - 🛠️ Funcionalidad clave 1
 - 🔧 Funcionalidad clave 2
 - ⚡ Funcionalidad clave 3
@@ -27,6 +30,7 @@ Breve descripción del proyecto, su propósito y el problema que resuelve.
 ## 📦 Instalación
 
 ### Requisitos previos
+
 - 🖥️ Dependencia 1
 - 💾 Dependencia 2
 - 🌐 Dependencia 3
@@ -49,14 +53,17 @@ npm start  # O comando de inicio del proyecto
 ```
 
 ## 🧪 Pruebas
+
 ```sh
 npm test  # O comando de pruebas
 ```
 
 ## 📜 Documentación
+
 Para más detalles, consulta la [documentación](./docs/README.md).
 
 ## 🤝 Contribución
+
 1. Haz un fork del repositorio
 2. Crea una rama con tu funcionalidad: `git checkout -b feature/nueva-feature`
 3. Realiza tus cambios y haz commit: `git commit -m 'Agregada nueva feature'`
@@ -72,11 +79,14 @@ Personas que han contribuido a este proyecto:
 </a>
 
 ## 📄 Licencia
+
 Este proyecto está bajo la licencia [Nombre de la licencia](./LICENSE).
 
 ## 📅 Última Modificación
+
 Este archivo fue actualizado por última vez el: `dd/mm/yyyy`
 
 ## 📞 Contacto
+
 - 📧 Email: correo@ejemplo.com
 - 🌐 Sitio Web: [ejemplo.com](https://ejemplo.com)
