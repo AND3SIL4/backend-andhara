@@ -14,7 +14,7 @@ def entry_point():
     return JSONResponse(
         status_code=200,
         content={
-            "status": "working...",
+            "status": "working lubisi...",
             "time": time.strftime("%d-%m-%Y"),
             "andhara_version": "0.0.3",
         },
