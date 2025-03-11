@@ -16,6 +16,6 @@ def entry_point():
         content={
             "status": "working...",
             "time": time.strftime("%d-%m-%Y"),
-            "version": "0.0.3",
+            "andhara_version": "0.0.3",
         },
     )
