@@ -13,5 +13,9 @@ def entry_point():
     time = datetime.now()
     return JSONResponse(
         status_code=200,
-        content={"status": "working...", "time": time.strftime("%d-%m-%Y")},
+        content={
+            "status": "working...",
+            "time": time.strftime("%d-%m-%Y"),
+            "version": "0.0.3",
+        },
     )
