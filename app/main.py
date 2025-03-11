@@ -11,7 +11,7 @@ app = FastAPI()
 @app.get("/")
 def entry_point():
     time = datetime.now()
-    print(time)
     return JSONResponse(
-        status_code=200, content={"status": "working...", "time": "aaa"}
+        status_code=200,
+        content={"status": "working...", "time": time.strftime("%d-%m-%Y")},
     )
