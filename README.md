@@ -59,7 +59,7 @@ Para más detalles, consulta la [documentación](./docs/README.md).
 
 ## License
 
-Este proyecto está bajo la licencia [Nombre de la licencia](./LICENSE).
+Este proyecto está bajo la licencia [Apache License 2.0](./LICENSE).
 
 ## Contact
 
